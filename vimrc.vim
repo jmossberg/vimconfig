@@ -8,7 +8,7 @@ nmap <C-N> :NERDTreeToggle<CR>
 "Color scheme
 syntax enable
 "set background=dark
-"colorscheme jellybeans
+colorscheme elflord 
 
 "Status line
 set laststatus=2
