@@ -1,14 +1,11 @@
-"Key mappings
-nmap <C-N> :NERDTreeToggle<CR>
-
 """""""""""""""""
 " USER INTERFACE
 """""""""""""""""
 
 "Color scheme
-syntax enable
+"syntax on
 "set background=dark
-colorscheme elflord 
+"colorscheme elflord 
 
 "Status line
 set laststatus=2
@@ -58,11 +55,6 @@ set ignorecase
 
 "Highlight search results
 set hlsearch
-
-" Map <Space> to / (search) and Ctrl-<Space> to ? (backwards search)
-map <space> /
-map <c-space> ?
-
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Files, backups and undo
