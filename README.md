@@ -7,5 +7,4 @@ My vim configuration file
 2. Replace ~/.vimrc with the following lines:
 
         source ~/git/vimconfig/vimrc.vim
-        set runtimepath=~/git/vimconfig/
 
